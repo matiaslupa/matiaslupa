@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matiaslupa
-- 👀 I’m interested in be hired for the best company in the world. Are you? 
+- 👀 I am interested in being hired as a front end developer
 - 🌱 I’m currently learning to be a Full-Stack Engineer
 
 
