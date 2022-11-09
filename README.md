@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matiaslupa
 - 👀 I am interested in being hired as a Front-End developer
-- 🌱 I’m currently learning to be a Full-Stack Engineer
+- 🌱 I’m currently learning to be a Full-Stack Engineer with Goland
 
 
 <!---
